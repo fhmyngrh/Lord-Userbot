@@ -27,12 +27,12 @@ from userbot.events import register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    f"__**ROOM CHAT || {DEFAULTUSER}**__\n"
+    f"__**Hallo [{name0}](tg://user?id={uid})**__\n**Selamat datang di Room Chat Lord {DEFAULTUSER}**\n"
     "━━━━━━━━━━━━━━━━━━━━\n"
-    f"__HALLO SELAMAT DATANG, SAYA ADALAH BOT YANG MENJAGA ROOM CHAT INI MOHON JANGAN MELAKUKAN SPAM KARNA SAYA OTOMATIS AKAN MEMBLOKIR ANDA, TUNGGU SAMPAI {DEFAULTUSER} MENERIMA PESAN ANDA__\n"
+    f"__Saya adalah Zelda Bot Assistant. Harap tunggu sampai Lord {DEFAULTUSER} menyetujui pesan anda__\n\n⚠️__harap jangan melakukan spam di chatroom ini, karena saya akan otomatis memblokir anda__\n"
     "┏━━━━━━━━━━━━━━━━━━━\n"
-    "┣[• `PESAN OTOMATIS`\n"
-    "┣[• `BY LORD USERBOT`\n"
+    "┣[• **Tetimakasih**\n"
+    "┣[• `Pesan Otomatis By ZELDA USERBOT`\n"
     "┗━━━━━━━━━━━━━━━━━━━")
 # =================================================================
 
