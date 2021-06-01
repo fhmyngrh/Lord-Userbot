@@ -164,7 +164,7 @@ async def bot_ver(event):
         revout = str(stdout.decode().strip()) + str(stderr.decode().strip())
 
         await event.edit(
-            "**☛**Lord-Userbot Versi:** \n "
+            "**☛**Zelda-Userbot Versi:** \n "
             f"{verout}"
             "\n**☛**Revisi:**\n "
             f"{revout}"
@@ -305,7 +305,7 @@ async def amireallyalive(alive):
     await alive.edit("`I'M ALIVE!`")
     await alive.edit("⚡")
     output = (
-        f"**♕ LORD USERBOT ♕** \n\n"
+        f"**♕ ZELDA USERBOT ♕** \n\n"
         f"┏━━━━━━━━━━━━━━━━━━━ \n"
         f"┣|• `Lord     :`{DEFAULTUSER} \n"
         f"┣|• `Username :`@{user.username} \n"
