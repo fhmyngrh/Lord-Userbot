@@ -35,8 +35,8 @@ DEF_UNAPPROVED_MSG = (
     "`- Dilarang spam lebih dari 5kali sebelum pesan adna di setujui`\n"
     "`- Bot Assistant akan otomatis memblokir anda jika tetap melakukan spam`\n\n"
     "┏━━━━━━━━━━━━━━━━━━━\n"
-    "┣[• `Pesan Otomatis By Zelda Bot Assistant`\n"
-    "┣[• `Developed By` @oppaidaisukii\n"
+    "┣[• `Zelda Bot Assistant`\n"
+    "┣[• `Dev By` @oppaidaisukii\n"
     "┗━━━━━━━━━━━━━━━━━━━")
 # =================================================================
 
