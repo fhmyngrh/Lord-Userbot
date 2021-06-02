@@ -27,7 +27,7 @@ from userbot.events import register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    f"👋**Holla** [{name0}](tg://user?id={uid})\n\n"
+    f"👋**Holla Stranger!!!**\n\n"
     "━━━━━━━━━━━━━━━━━━━━\n"
     f"__Selamat Datang. Saya adalah Bot Assistant Lord {DEFAULTUSER}, tunggu sampai Lord {DEFAULTUSER} menyetujui pesan anda.__\n\n"
     "━━━━━━━━━━━━━━━━━━━━\n"
