@@ -1,34 +1,23 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="LORD USERBOT" /></a>
-
-
-<p align="center">
-  <a href="https://github.com/Zora24/Lord-Userbot/fork">
-    <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/Zora24/Lord-Userbot">
-    <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
-  </a>
-</p>  
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="ZELDA USERBOT" /></a>
 
 # Lord Userbot
-![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
+![Lord Userbot Logo](https://telegra.ph/file/60d1422a9e0ff8f93951a.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
 ### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+Repo Yang Dibuat [Alvin](https://t.me/oppaidaisukii) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
 
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
+Caranya  [TEKAN DISINI](https://replit.com/@AL241/String-Sesson-Lord#pyproject.toml) Untuk Generate STRING
 
 ## Bagaimana Cara Deploy?
 
 ```
-* **CARA DEPLOY** 🔧
+* **CARA DEPLOY** ðŸ”§
 
   > Pertama Dapatkan API_KE & API_HASH Di my.telegram.org (Wajib)
 
@@ -40,11 +29,8 @@ Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](htt
 
   > Terakhir Hidupkan Dyno Lalu Check Logs (settings -> view logs) Jika Berhasil Enjoy :)
 ```
-Atau Bisa Gabung Ke Grup Lord Userbot -> [TEKAN DISINI](https://t.me/LordUserbot_Group)
-## <p align="center">DEPLOY LORD-USERBOT</p>
 
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/fhmyngrh/Lord-Userbot/"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/fhmyngrh/zelda-Userbot/"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
@@ -62,7 +48,11 @@ TERIMAKASIH UNTUK
 *   [Alfianandaa](https://github.com/alfianandaa/ProjectAlf) - ProjectAlf
 *   [AnggaR69s](https://github.com/GengKapak/DCLXVI) - DCLXVI
 *   [kandnub](https://github.com/kandnub) - TG-UserBot
-*   [༺αиυвιѕ༻](https://github.com/Dark-Princ3) - X-tra-Telegram
+*   [à¼ºÎ±Ð¸Ï…Ð²Î¹Ñ•à¼»](https://github.com/Dark-Princ3) - X-tra-Telegram
 *   [Sahyam2019](https://github.com/sahyam2019/oub-remix) - oub-remix
 *   [TeamUserge](https://github.com/UsergeTeam/Userge) - Userge
 *   DAN BANYAK LAGI 
+
+
+
+
