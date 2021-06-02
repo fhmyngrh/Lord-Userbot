@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="ZELDA USERBOT" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5533353.png" width="541" height="87" alt="ZELDA USERBOT" /></a>
 
 # Lord Userbot
 ![Lord Userbot Logo](https://telegra.ph/file/60d1422a9e0ff8f93951a.jpg)
