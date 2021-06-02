@@ -31,7 +31,7 @@ DEF_UNAPPROVED_MSG = (
     "━━━━━━━━━━━━━━━━━━━━\n"
     f"__Selamat Datang. Saya adalah Bot Assistant Lord {DEFAULTUSER}, tunggu sampai Lord {DEFAULTUSER} menyetujui pesan anda.__\n\n"
     "━━━━━━━━━━━━━━━━━━━━\n"
-    f"⛔**PERINGATAN**"
+    f"⛔**PERINGATAN**\n"
     "`• Dilarang spam lebih dari 5 kali sebelum pesan anda di setujui oleh Lord`\n"
     "`• Bot Assistant akan otomatis memblokir anda jika tetap melakukan spam`\n\n"
     "┏━━━━━━━━━━━━━━━━━━━\n"
