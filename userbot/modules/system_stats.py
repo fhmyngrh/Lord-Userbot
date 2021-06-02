@@ -310,7 +310,7 @@ async def amireallyalive(alive):
         f"┣|• `Bot Ver  :`{BOT_VER} \n"
         f"┣|• `Modules  :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
-        f"[Repo](https://github.com/fhmyngrh/Zelda-Userbot) | [Grup Support](t.me/LordUserbot_Group) | [Owner](t.me/liualvinas)")
+        f"[Repo](https://github.com/fhmyngrh/Zelda-Userbot) | [Grup Support](t.me/Friendlycircle) | [Owner](t.me/oppaidaisukii)")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
