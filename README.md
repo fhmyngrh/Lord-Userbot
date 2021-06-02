@@ -7,7 +7,7 @@
 <p align="center">&nbsp;</p>
 
 ### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/oppaidaisukii) Dari Berbagai Repo Userbot Github 
+Repo Yang Dibuat [Lord Zelda](https://t.me/oppaidaisukii) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
@@ -17,7 +17,7 @@ Caranya  [TEKAN DISINI](https://replit.com/@AL241/String-Sesson-Lord#pyproject.t
 ## Bagaimana Cara Deploy?
 
 ```
-* **CARA DEPLOY** ðŸ”§
+* **CARA DEPLOY** 🔧
 
   > Pertama Dapatkan API_KE & API_HASH Di my.telegram.org (Wajib)
 
