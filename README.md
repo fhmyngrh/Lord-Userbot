@@ -1,12 +1,12 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5533353.png" width="541" height="87" alt="ZELDA USERBOT" /></a>
 
-# Lord Userbot
+# Zelda Userbot
 ![Lord Userbot Logo](https://telegra.ph/file/60d1422a9e0ff8f93951a.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### Repo Lord Userbot
+### Repo Zelda Userbot
 Repo Yang Dibuat [Lord Zelda](https://t.me/oppaidaisukii) Dari Berbagai Repo Userbot Github 
 
 
